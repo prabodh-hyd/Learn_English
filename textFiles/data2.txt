@@ -1,0 +1,60 @@
+
+Shopkeerper:- Welcome to our Shopping mall, Sir
+
+Customer:- Thank You.
+
+Shopkeerper:- How Can I help you, Sir?
+
+Customer:- I want a good laptop for my Studies
+
+Shopkeerper:- Ok, Sir. What type do you want?
+
+Customer:- I want Hp i7 laptop
+
+Shopkeerper:- Please see the third row in showcase. You can see all kind of Hp laptops
+
+Customer:- Thank you. Please show me second once.
+
+Shopkeerper:- Yes, Sir. take it. it's the best quality laptop, Sir.
+
+Customer:- This laptop have any warranty
+
+Shopkeerper:- Yes, Sir. The Hp Company two years warranty on this laptop
+
+Customer:- How much it?
+
+Shopkeerper:- It is 80,000/- 
+
+Customer:- That's too much.
+
+Shopkeerper:- Not at all. It's HP i7 laptop.
+
+Customer:- But, I want a below 60,000/- rupees. Do you have?
+
+Shopkeerper:- Yes, We have. look at the 6th one Sir
+
+Customer:- Ok, What are the features?
+
+Shopkeerper:- This is HP i5 laptop
+
+Customer:- Ok, This laptop is good for my studies
+
+Shopkeerper:- Of course, It's good for your studies
+
+Customer:- How much it?
+
+Shopkeerper:- 56,000/-
+
+Customer:- Is there any discount
+
+Shopkeerper:- Give me one min Sir. Let me check it
+
+Customer:- Ok
+
+Shopkeerper:- Sorry to say this sir. They are no discount
+
+Customer:- All right, Pack this 
+
+Shopkeerper:- Ok, Sir, Thank you. Please Visit Again
+
+Customer:- Sure
