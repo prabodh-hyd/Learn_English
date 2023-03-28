@@ -4,8 +4,13 @@ const text1 = 'textFiles/data2.txt';
 const text2 = 'textFiles/data2.txt';
 const text3 = 'textFiles/data3.txt';
 const text4 = 'textFiles/data4.txt';
+const text5 = 'textFiles/conversationBetweenDadAndSon.txt';
+const text6 = 'textFiles/ConversationBetweenTwoFriendsAboutExam.txt';
+const text7 = 'textFiles/FatherAndSonDialogue.txt';
+const text8 = 'textFiles/summerPlanning.txt';
+const text9 = 'textFiles/twoFriendsArePlanningaVisiteToTheTemple.txt';
 
-const textRes = [url, text1, text2, text3, text4];
+const textRes = [url, text1, text2, text3, text4,text5,text6,text7,text8,text9];
 
 
 function clickBtn(value, object) {
@@ -37,11 +42,11 @@ function reqDate(fileValue) {
 }
 
 
-document.getElementById('infl').addEventListener('change',function(){
-    var file_reader=new FileReader();
-    file_reader.onload=function(){
-        document.getElementById('res').textContent=file_reader.result;
-        console.log("desuRota;");
-    }
-    file_reader.readAsText(this.files[0]);
-})
+// document.getElementById('infl').addEventListener('change',function(){
+//     var file_reader=new FileReader();
+//     file_reader.onload=function(){
+//         document.getElementById('res').textContent=file_reader.result;
+//         console.log("desuRota;");
+//     }
+//     file_reader.readAsText(this.files[0]);
+// })

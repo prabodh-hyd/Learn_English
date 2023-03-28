@@ -1,1 +1,33 @@
-PrabodhTech
+Passenger:- Hai Sir,  Good Morning
+Railway police:- Good Morning
+Passenger:- My name is Rama Krishna.
+Railway police:- Ok, how can I help you?
+Passenger:- I lost my laptop on the train.
+Railway police:- When was the last time you lost your laptop?
+Passenger:- I don't know, but early this morning I was checking my laptop bag. There is no laptop.
+Railway police:- Which train did you board?
+Passenger:- I board the Tirupati Super Express from Tirupati to Hyderabad.
+Railway police:- Which time did you board?
+Passenger:- Last night at 9:00 p.m.
+Railway police:- Okay, Can you please tell me your laptop's details?
+Passenger:- Sure, sir. My laptop's company name is Dell, and it is black in color. It is intel core i5
+Railway police:-  Can you please show me your train ticket?
+Passenger:- Sure sir, this is the train ticket.
+Railway police:- Ok, and I also need your ID proof.
+Passenger:- Ok, here is my ID proof.
+Railway police:- You can write a letter about losing your laptop and fill in your details.
+Passenger:- Ok, here is the letter, and my details are present in the letter.
+Railway police:- We will find your laptop and we will inform you.
+Passenger:- Thank you, sir. That is my office laptop. Please find the laptop as soon as possible.
+Railway police:- Ok
+Passenger:- Hai Sir, This is Rama Krishna. Two days ago I gave a letter about losing my laptop.
+Railway police:- Ok
+Passenger:- Could you find my laptop?
+Railway police:- Yes, but at present, your laptop is in Delhi because that thief
+is found in Delhi.
+Passenger:- Thank you, sir, you found my laptop.
+Railway police:- It's my pleasure.
+Passenger:- How many days will it take?
+Railway police:- I think it will take another two days.
+Passenger:- Thank you, sir. I will be waiting for your call.
+Railway police:- When we get your laptop, I will inform you. Thank you

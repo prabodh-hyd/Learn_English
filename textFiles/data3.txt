@@ -1,1 +1,27 @@
-Royal6
+Student:- Good morning, sir.
+Teacher:- Very Good Morning.
+Student:- Sir, My semester exam is almost a month away.
+Teacher:- Yes, so
+Student:- Can you please give me some instructions and an important question, sir?
+Teacher:- "Okay, good to ask me. Already, I've sent important questions to Raju.
+Student:- Thank you, sir. I will ask Raju.
+Teacher:- Good, I hope you are a good student. You will definitely pass the semester examinations.
+Student:- "Yes, Sir, I have one question, sir."
+Teacher:- "Tell me!"
+Student:- I couldn't concentrate on my studies for as long as I wanted. I quickly diverted to other work. Please tell me, sir, how I should prepare for the examination.
+Teacher:- Firstly, get rid of your phone. That is the first distraction from your studies.
+Student:- Okay, sir.
+Teacher:- Second, do meditation for 30 minutes or 45 minutes a day.
+That is helping me focus on my studies more.
+Student:- Okay, sir. next one
+Teacher:- Read only one topic at a time. Don't read multiple topics. You must have all the information while you study.
+Student:- Sir, I have another problem with memorising.
+Teacher:- Don't read blindly, try to understand it first. Try to concentrate on one major theme at a time. Then you will grasp all the information.
+Student:- Sir, my friends are planning to do group studies. It's better for me.
+Teacher:- Yes, definitely. It's better for you.
+Student:- Okay, sir.
+Teacher:- One thing you must do is solve old question papers because those will help you.
+Student:- Thank you, sir.
+Teacher:- If you have any questions right now, let me know.
+Student:- Present No, sir.
+Teacher:- "Okay, all the best for your semester examinations."
